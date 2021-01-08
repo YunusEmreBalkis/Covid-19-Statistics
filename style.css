@@ -1,0 +1,27 @@
+.a {
+    width: 100px;
+    border-radius: 50%;
+}
+.bg-light {
+    background-color: #222123!important;
+    border-radius: 80px;
+
+}
+body{
+    background-image: url(images/conav.jpeg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+}
+table {
+    border-collapse: collapse;
+    border-radius: 1em;
+    overflow: hidden;
+    opacity: 0.9;
+  }
+.form-control{
+    width: 360px!important;
+}  
+ 
