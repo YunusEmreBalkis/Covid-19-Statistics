@@ -9,7 +9,6 @@ class Request{
         const responsek = await fetch(this.url, {
             "method": "GET",
             "headers": {
-                "x-rapidapi-key": "737b725379msh219e2f7870f346ap11e5bejsn9f752551c1d2",
                 "x-rapidapi-host": "covid-193.p.rapidapi.com",
                 "Content-type": "application/json; charset=UTF-8"
             }
