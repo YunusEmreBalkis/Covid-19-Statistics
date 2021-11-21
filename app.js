@@ -10,7 +10,8 @@ class Request{
             "method": "GET",
             "headers": {
                 "x-rapidapi-host": "covid-193.p.rapidapi.com",
-                "Content-type": "application/json; charset=UTF-8"
+                "Content-type": "application/json; charset=UTF-8",
+                "x-rapidapi-key": "API-KEY"
             }
         });
 
